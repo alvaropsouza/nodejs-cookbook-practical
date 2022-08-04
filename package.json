@@ -4,7 +4,7 @@
   "description": "Nodejs practical exercises for study purposes",
   "main": "index.js",
   "scripts": {
-    "gitPush": "git add . && echo 'Enter commit message' && read commitMessage && git commit -m \"$commitMessage\" && echo 'Enter branch name' && read branchName && git push origin branchName"
+    "gitPush": "git add . && echo 'Enter commit message' && read commitMessage && git commit -m \"$commitMessage\" && echo 'Enter branch name' && read branchName && git push origin $branchName"
   },
   "repository": {
     "type": "git",
