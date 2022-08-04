@@ -4,7 +4,7 @@
   "description": "Nodejs practical exercises for study purposes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "add:commit:push": "git add . && git commit -m '${prompt()}'"
   },
   "repository": {
     "type": "git",
