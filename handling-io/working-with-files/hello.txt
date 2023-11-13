@@ -1,0 +1,2 @@
+Empty text here!
+Try to upper case this running node readWriteSync.js!
